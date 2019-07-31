@@ -1,0 +1,2 @@
+Prefix plugins/TriadCounter/example/
+Plugin TriadCounter inputfile abundN.pearson.csv outputfile none
