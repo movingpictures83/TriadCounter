@@ -2,7 +2,8 @@
 # Language: Python
 # Input: CSV (signed, weighted network)
 # Output: Screen (statistics)
-# Tested with: PluMA 1.0, Python 3.6
+# Tested with: PluMA 1.1, Python 3.6
+# Dependency: numpy==1.16.0
 
 PluMA plugin to take a signed, weighted network and output the number of stable
 and unstable triads, a useful metric for social network research (Easley, 2010).
